@@ -1,0 +1,21 @@
+{
+  "name": "slides",
+  "version": "0.0.0",
+  "authors": [
+    "Denis Tuzhik <dentuzhik@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "highlight.js": "git://github.com/dentuzhik/highlight.js.git#es6-fixes",
+    "shower-bright": "~1.0.11",
+    "shower-core": "~1.0.7"
+  }
+}

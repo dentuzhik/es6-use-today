@@ -1,0 +1,13 @@
+{
+  "name": "highlight.js",
+  "homepage": "https://github.com/dentuzhik/highlight.js",
+  "_release": "45c9525a2b",
+  "_resolution": {
+    "type": "branch",
+    "branch": "es6-fixes",
+    "commit": "45c9525a2bb60cabef5c52796e327b59f821893a"
+  },
+  "_source": "git://github.com/dentuzhik/highlight.js.git",
+  "_target": "es6-fixes",
+  "_originalSource": "git://github.com/dentuzhik/highlight.js.git"
+}
